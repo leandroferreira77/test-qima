@@ -8,7 +8,7 @@ Instructions to follow:
 
 > H2 database - name: qima
 
-> Spring Boot versao 2.4.4
+> Spring Boot versao 2.4.4, Spring MVC and JSP
 
 > Maven for Library Organization
 
