@@ -1,7 +1,7 @@
 # test-qima
 This repository contains tests for the company QIMA
 
-# Develop Web Application for managing products using Spring as a core framework
+# Web application developed to manage products using Spring as the central structure
 
 Instructions to follow:
 > Aplication Web created using JDK 8 
