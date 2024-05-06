@@ -22,6 +22,10 @@ mvn spring-boot:run
 
 > Access the URL [http://localhost:8080/auth](http://localhost:8080/auth)
 
+<div align="center">
+  <img src="![app-qima](https://github.com/leandroferreira77/test-qima/assets/164068067/856efd57-5869-43eb-bd5a-1b930bf9da86)">
+</div>
+
 > To access the database go to the URL [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 > Access --> User Name: sa and Password: 
