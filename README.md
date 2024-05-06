@@ -22,7 +22,8 @@ mvn spring-boot:run
 
 > Access the URL [http://localhost:8080/auth](http://localhost:8080/auth)
 
-> To access the database go to the URL [http://localhost:8080/h2-console](http://localhost:8080/h2-console) 
+> To access the database go to the URL [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+> Access --> User Name: sa and Password: 
 
 ## 3-To access the application, you must use the following access data:
 
