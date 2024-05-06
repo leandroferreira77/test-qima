@@ -20,16 +20,6 @@
     "description": "A description for 'spring.datasource.inicialization-mode'"
   },
   {
-    "name": "application.smtp-sender",
-    "type": "java.lang.String",
-    "description": "A description for 'application.smtp-sender'"
-  },
-  {
-    "name": "application.reset-password-url",
-    "type": "java.lang.String",
-    "description": "A description for 'application.reset-password-url'"
-  },
-  {
     "name": "auth.public-sing-up-url-enable",
     "type": "java.lang.String",
     "description": "A description for 'auth.public-sing-up-url-enable'"
@@ -48,30 +38,5 @@
     "name": "auth.reset-password-token-expiration-miliseg",
     "type": "java.lang.String",
     "description": "A description for 'auth.reset-password-token-expiration-miliseg'"
-  },
-  {
-    "name": "amazonProperties.endpointUrl",
-    "type": "java.lang.String",
-    "description": "A description for 'amazonProperties.endpointUrl'"
-  },
-  {
-    "name": "amazonProperties.bucketName",
-    "type": "java.lang.String",
-    "description": "A description for 'amazonProperties.bucketName'"
-  },
-  {
-    "name": "amazonProperties.region",
-    "type": "java.lang.String",
-    "description": "A description for 'amazonProperties.region'"
-  },
-  {
-    "name": "amazonProperties.accessKey",
-    "type": "java.lang.String",
-    "description": "A description for 'amazonProperties.accessKey'"
-  },
-  {
-    "name": "amazonProperties.secretKey",
-    "type": "java.lang.String",
-    "description": "A description for 'amazonProperties.secretKey'"
   }
 ]}
