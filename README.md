@@ -27,4 +27,5 @@ mvn spring-boot:run
 ## 3-To access the application, you must use the following access data:
 
 > ROLE: SUPERUSER --> email: admin@qima.com and password: qima@123
+
 > ROLE: USER --> email: user@qima.com and password: qima@123
