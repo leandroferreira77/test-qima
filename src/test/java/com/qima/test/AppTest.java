@@ -1,4 +1,4 @@
-package br.com.iniciativa.test;
+package com.qima.test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
