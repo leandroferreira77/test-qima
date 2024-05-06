@@ -36,6 +36,8 @@ mvn spring-boot:run
 
 > Access --> User Name: sa and Password:
 
+> Don't forget to change the JDBC URL path to <b>jdbc:h2:mem:qima</b>
+
 <div align="center">
   <img src="https://github.com/leandroferreira77/test-qima/assets/164068067/8674a8c6-5d3c-467a-9128-2efc5f2474cb" width="700px" heigth="400" />
 </div>
