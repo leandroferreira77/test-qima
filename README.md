@@ -27,7 +27,7 @@ mvn spring-boot:run
 > Access the URL [http://localhost:8080/auth](http://localhost:8080/auth)
 
 <div align="center">
-  <img src="https://github.com/leandroferreira77/test-qima/assets/164068067/856efd57-5869-43eb-bd5a-1b930bf9da86">
+  <img src="https://github.com/leandroferreira77/test-qima/assets/164068067/856efd57-5869-43eb-bd5a-1b930bf9da86" width="700px" heigth="400" />
 </div>
 
 ## 4-To access the database, you must use the following access data:
